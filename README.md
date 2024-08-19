@@ -1,4 +1,4 @@
-# Kazakhstan Vehicles Data Analysis in Python
+# Python: Kazakhstan Vehicles Data Analysis
 
 This ad-hoc analysis project investigates vehicles in Kazakhstan. It uses a data set of **10,885** vehicles which contains information like the vehicle driver's particulars, vehicle details, insurance period and premium as well as road accident details, if any. This project aims to answer specific questions related to the data through data manipulation *(eg filtering, aggregation, sorting operations)*, so as to synthesise findings that might be of interest to business stakeholders. 
 
